@@ -6,6 +6,7 @@ Story, written in C++.
 ## supported operating systems
 
 - Linux
+- Windows (use MinGW)
 
 ## building
 
